@@ -1,10 +1,10 @@
 import React,{Component} from 'react'
-import Drawer from '../component/drawers/Permanent drawer/ClippedUnderTheAppbar'
+import Expansion from '../component/Expansion panel/Simple Expansion Panel/SimpleExpansionPanel'
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Drawer/>
+                <Expansion/>
             </div>
         )
     }
