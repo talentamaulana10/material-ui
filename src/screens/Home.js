@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Chips from '../component/chips/Outlined Chips/outlinedChips'
+import Chips from '../component/chips/Chip array/ChipArray'
 
 export default class Home extends Component{
     render(){
