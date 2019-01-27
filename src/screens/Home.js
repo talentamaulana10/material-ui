@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Appbar from '../appbar/appBarDenses/AppBarDense'
+import Appbar from '../appbar/appBarSearch/appBarSearch'
 
 export default class Home extends Component{
     render(){
