@@ -1,11 +1,10 @@
 import React,{Component} from 'react'
-import Chips from '../component/chips/Chip Playground/ChipPlayground'
-
+import Dialog from '../component/Dialogs/Simple Dialogs/SimpleDialogs'
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Chips/>
+                <Dialog/>
             </div>
         )
     }
