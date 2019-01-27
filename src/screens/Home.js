@@ -1,6 +1,5 @@
 import React,{Component} from 'react'
-import Badges from '../component/badges/Customized Badge/customizedBadge'
-import BottomNavigation from '../component/bottom navigation/Bottom Navigation/bottomNavigation'
+import BottomNavigation from '../component/bottom navigation/Bottom Navigation with no label/BottomNavigationWithNoLabel'
 
 export default class Home extends Component{
     render(){
