@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Divider from '../component/divider/Inset Dividers/InsetDividers'
+import Divider from '../component/divider/Subheader Dividers/SubheaderDividers'
 export default class Home extends Component{
     render(){
         return(
