@@ -1,11 +1,11 @@
 import React,{Component} from 'react'
-import Appbar from '../appbar/appBarBottoms/AppBarBottom'
+import Autocmplate from '../component/autocomplate/downshift'
 
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Appbar/>
+                <Autocmplate/>
             </div>
         )
     }
