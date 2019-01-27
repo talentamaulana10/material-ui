@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Drawer from '../component/drawers/Mini variant drawer/Minivariantdrawer'
+import Drawer from '../component/drawers/Permanent drawer/fullHeightRight'
 export default class Home extends Component{
     render(){
         return(
