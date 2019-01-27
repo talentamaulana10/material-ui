@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Badges from '../component/badges/dot badges/dotBadges'
+import Badges from '../component/badges/Badge visibility/badgevisibility'
 
 export default class Home extends Component{
     render(){
