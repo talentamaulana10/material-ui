@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import  Button  from '../component/button/Text Buttons/textButtons';
+import  Button  from '../component/button/Outlined Buttons/outlinedButtons';
 
 export default class Home extends Component{
     render(){
