@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Expansion from '../component/Expansion panel/Simple Expansion Panel/SimpleExpansionPanel'
+import Expansion from '../component/Expansion panel/ControlledAccordion/ControlledAccordion'
 export default class Home extends Component{
     render(){
         return(
