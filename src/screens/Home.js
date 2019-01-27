@@ -1,11 +1,11 @@
 import React,{Component} from 'react'
-import Avatar from '../component/avatar/ikon Avatar/iconAvatar'
+import Badges from '../component/badges/Simple Badges/simpleBadges'
 
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Avatar/>
+                <Badges/>
             </div>
         )
     }
