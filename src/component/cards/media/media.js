@@ -34,8 +34,7 @@ function MediaCard(props) {
             Lizard
           </Typography>
           <Typography component="p">
-            Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-            across all continents except Antarctica
+            my name is talenta my job is be the programer
           </Typography>
         </CardContent>
       </CardActionArea>
