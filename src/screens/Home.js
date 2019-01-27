@@ -1,10 +1,10 @@
 import React,{Component} from 'react'
-import Dialog from '../component/Dialogs/Draggable dialog/draggableDialog'
+import Divider from '../component/divider/list divider/listDivider'
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Dialog/>
+                <Divider/>
             </div>
         )
     }
