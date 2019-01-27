@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import  Button  from '../component/button/Floating Action Buttons/FloatingActionButtons2';
+import  Button  from '../component/button/Sizes/sizes';
 
 export default class Home extends Component{
     render(){
