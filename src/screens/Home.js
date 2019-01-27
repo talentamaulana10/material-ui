@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Dialog from '../component/Dialogs/alert/alert'
+import Dialog from '../component/Dialogs/alert/slideInAlertDialog'
 export default class Home extends Component{
     render(){
         return(
