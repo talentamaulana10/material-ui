@@ -1,10 +1,10 @@
 import React,{Component} from 'react'
-import Expansion from '../component/Expansion panel/Customized Expansion Panel/CustomizedExpansionPanel'
+import GridList from '../component/Grid List/Image-only Grid list/Image-onlyGridList'
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Expansion/>
+                <GridList/>
             </div>
         )
     }
