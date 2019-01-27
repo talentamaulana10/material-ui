@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import Drawer from '../component/drawers/Swipeable Temporary drawer/SwipeableTemporarydrawer'
+import Drawer from '../component/drawers/Responsive drawer/ResponsiveDrawer'
 export default class Home extends Component{
     render(){
         return(
