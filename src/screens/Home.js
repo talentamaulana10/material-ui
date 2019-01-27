@@ -1,11 +1,11 @@
 import React,{Component} from 'react'
-import  Button  from '../component/cards/ui control/uiControl';
+import Chips from '../component/chips/chip/chip'
 
 export default class Home extends Component{
     render(){
         return(
             <div>
-                <Button/>
+                <Chips/>
             </div>
         )
     }
